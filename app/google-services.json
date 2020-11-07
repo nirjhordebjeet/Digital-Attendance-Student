@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056782146468",
+    "firebase_url": "https://digital-attadance.firebaseio.com",
+    "project_id": "digital-attadance",
+    "storage_bucket": "digital-attadance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056782146468:android:002cf996b7092957",
+        "android_client_info": {
+          "package_name": "com.sadi.digitalattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056782146468-13o5ife16iru583mqf0g3fvdk64654r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadi.digitalattendance",
+            "certificate_hash": "f466b2f940fde45f999a36a0443e7a3bfce7f6be"
+          }
+        },
+        {
+          "client_id": "1056782146468-t05741ivgeuub5u7msmqtmhdffcm2fht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidxaGESJHfgdSTL2PZA__J-QXZsjNPpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056782146468-t05741ivgeuub5u7msmqtmhdffcm2fht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

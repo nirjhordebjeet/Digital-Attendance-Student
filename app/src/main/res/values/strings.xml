@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Digital Attendance</string>
+
+    <string name="batch_choose">Choose batch</string>
+    <string name="section_choose">Choose section</string>
+
+    <string-array name="section">
+        <item>Select section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+
+    </string-array>
+
+    <string-array name="batch">
+        <item>Select batch</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+
+    </string-array>
+</resources>
